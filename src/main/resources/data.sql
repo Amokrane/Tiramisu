@@ -1,0 +1,1 @@
+insert into organization(organization_name, url) values('BlaBlaCar', 'http://www.blablacar.com')
